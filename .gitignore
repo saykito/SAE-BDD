@@ -1,0 +1,9 @@
+# Configuration locale (identifiants)
+.env
+.env.local
+
+# Éditeurs et système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
